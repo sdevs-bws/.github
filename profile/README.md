@@ -43,3 +43,9 @@
   **There is no announcement at the moment, it will be written here in the future.**
   
 </details>
+
+-------------------------------------------------
+
+```
+This Readme got made with ❤️ by Stoneclane Development
+```
