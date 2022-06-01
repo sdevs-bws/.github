@@ -17,6 +17,11 @@ Requests: https://bit.ly/38J1T1h
 • [Google](https://bit.ly/3vqdVnV)
 • [Discord](https://discord.gg/M7kaJDZtyY)
 
+### Contact Us
+• [Email](mailto://contact@sdevs.org): ``contact@sdevs.org``
+• [Ban Appeals](mailto://appeals@sdevs.org): ``appeals@sdevs.org``
+• [Business](mailto://business@sdevs.org): ``business@sdevs.org``
+
 -------------------------------------------------
 ### Authorized People Section
 <details><summary>❗AUTHORIZED RULES ❗</summary>
