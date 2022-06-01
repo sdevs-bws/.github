@@ -1,7 +1,7 @@
+<p align="center">
+<img src="https://user-images.githubusercontent.com/81481526/171454020-7a4b483b-e273-4224-a015-5c9dc9d6c449.gif" />
+</p>
 ### Stoneclane Development
-
-![Stoneclane Development Banner](https://user-images.githubusercontent.com/81481526/171454020-7a4b483b-e273-4224-a015-5c9dc9d6c449.gif)
-
 **Our goal is of course to provide all people with the best software at the right time and in the right place. We are a team of developers who want to make this possible. Our other goal is to become the best development services and to inspire as many people as possible with our work. We hope that you like our work! You are welcome to leave a rating on google to give us feedback. Thanks for reading.**
 
 ### Who we exactly are?
