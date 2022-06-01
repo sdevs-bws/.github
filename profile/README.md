@@ -1,7 +1,24 @@
-## Hello, Authorities
+### Stoneclane Development
+
+![Stoneclane Development Banner](https://user-images.githubusercontent.com/81481526/171454020-7a4b483b-e273-4224-a015-5c9dc9d6c449.gif)
 
 Our aim here, of course, is to present the source in the best possible way. we created this github build out of the way that something should always have a source. Below are the rules, those who do not comply will be banned from Stoneclane Development services. We have announcements at the bottom. 
 
+### Who we exactly are?
+We are a team of developers and we develop projects in c#, python, php, html, css, scss, typescript, javascript, java to improve ourselves.
+
+### Join our Team!
+Requests: https://bit.ly/38J1T1h
+
+### Social Media
+• [Twitter](https://twitter.com/StoneclaneD)
+• [Instagram](https://instagram.com/stoneclane.devs)
+• [Patreon](https://patreon.com/sdevs)
+• [Google](https://bit.ly/3vqdVnV)
+• [Discord](https://discord.gg/M7kaJDZtyY)
+
+-------------------------------------------------
+### Authorized People Section
 <details><summary>❗AUTHORIZED RULES ❗</summary>
   
  ### Hello, Authorities. 
