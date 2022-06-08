@@ -50,4 +50,7 @@
 
 ```
 This Readme got made with ❤️ by Stoneclane Development
+
 ```
+
+<!-- لا اله الا الله النبي محمد صلى الله عليه وسلم عبده ورسوله. ---> 
