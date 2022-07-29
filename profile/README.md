@@ -50,6 +50,19 @@
   
 </details>
 
+<details><summary>🤔 WHAT IS STONECLANE DEVELOPMENT?</summary> 
+  
+  * Stoneclane Development is not a for-profit company: it is a for-profit company. (We charge some fees for Tresthost hosting (Euros) and Giveaways supplement (Euros or Dollars) services. Although the .org domain name is also used in free events, we are standing by Stoneclane Development with paid services.
+  
+  * Stoneclane Development is not your toy: Making similar jokes like Mr p, playing with systems gives damage/loss of stock to Stoneclane Development. Never do this yourself. 
+  
+  * Stoneclane Development does not give bad trust to users, it always gives good trust and money back: your amount invested in a project in Stoneclane Development unconditionally your amount refunded 
+  
+  * Stoneclane Development is not the place to insult and threaten our customers, we know, sometimes people can be annoying and we can treat them badly in return. we regret the insults and threats we welcome. Please be you; Do not insult and threaten, both parties should not be upset. The right to change the rules is reserved by the Founders. 
+  
+  Best regards, 
+  Stoneclane Development team
+</details> 
 -------------------------------------------------
 
 ```
