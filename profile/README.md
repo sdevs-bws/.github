@@ -30,7 +30,7 @@
   
  ### Hello, Authorities. 
 
-**Here are the rules you have to follow. No one can change the rules except @JanjyTapYT.**
+**Here are the rules you have to follow. No one can change the rules except @JanjyTapYT and @heyturkiye58.**
 
 1. Be respectful and don't insult people. 
 2. Do not create unnecessary files. 
