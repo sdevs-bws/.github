@@ -46,7 +46,7 @@
 ## June 2022
   **There is no announcement at the moment, it will be written here in the future.**
 ## July 2022
-  * As Stoneclane Development, we support Ukraine. [click to support](https://stand-with-ukraine.pp.ua) - HeyTürkiye (11,07 UTC+3 29 July 2022, Friday)
+  * As Stoneclane Development, we support Ukraine. [click to support](https://stand-with-ukraine.pp.ua) - HeyTürkiye (11:07 UTC+3 29 July 2022, Friday)
   
 </details>
 
