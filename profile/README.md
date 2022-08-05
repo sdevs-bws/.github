@@ -59,7 +59,8 @@
   * Stoneclane Development does not give bad trust to users, it always gives good trust and money back: your amount invested in a project in Stoneclane Development unconditionally your amount refunded 
   
   * Stoneclane Development is not the place to insult and threaten our customers, we know, sometimes people can be annoying and we can treat them badly in return. we regret the insults and threats we welcome. Please be you; Do not insult and threaten, both parties should not be upset. The right to change the rules is reserved by the Founders. 
-  
+  * Stoneclane Development projects are related to Discord; As Stoneclane Development, we are always able to produce projects related to Discord and sometimes non-discord. Since we mostly produce projects related to discord, if you have a project suggestion definitely get it with discord. examples: discord bot, discord server, discord bot type (economy bot etc.) 
+  * At Stoneclane Development it is not important to have an authority/benefit; at least some code knowledge is required to recruit us as Stoneclane Development. the superiority we give you, never the advantage etc. It's not an event. consists of responsibility. Being a Stoneclane Development officer is not an advantage, it's a responsibility. 
   Best regards, 
   Stoneclane Development team
 </details> 
