@@ -65,7 +65,7 @@
   Best regards, 
   Stoneclane Development team
 </details> 
--------------------------------------------------
+
 
 ```
 This Readme got made with ❤️ by Stoneclane Development
