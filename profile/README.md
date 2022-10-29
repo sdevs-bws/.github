@@ -24,6 +24,8 @@
 • [Ban Appeals](mailto://appeals@sdevs.org): ``appeals@sdevs.org``
 • [Business](mailto://business@sdevs.org): ``business@sdevs.org``
 
+### What is Stoneclane Development?
+
 <details><summary>🤔 WHAT IS STONECLANE DEVELOPMENT?</summary> 
   
   * Stoneclane Development is not a for-profit company: it is a for-profit company. (We charge some fees for Tresthost hosting (Euros) and Giveaways supplement (Euros or Dollars) services. Although the .org domain name is also used in free events, we are standing by Stoneclane Development with paid services.
