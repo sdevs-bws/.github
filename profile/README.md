@@ -50,5 +50,5 @@
 ----
 
 ```ini
-[ © 2020 - now - All rights reserved. ]
+[ © 2018 - now - All rights reserved. ]
 ```
