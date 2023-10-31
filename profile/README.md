@@ -14,17 +14,31 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/DevsShare-Official" style="text-decoration: none;">
-        <img src="https://github.com/DevsShare-Official.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+      <a href="https://github.com/tresthost" style="text-decoration: none;">
+        <img src="https://github.com/tresthost.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
-        <sub><b style="color: black;">DevsShare</b></sub>
+        <sub><b style="color: black;">TrestHost</b></sub>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/MinePortalHost" style="text-decoration: none;">
-        <img src="https://github.com/MinePortalHost.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+      <a href="https://github.com/fileswiftly" style="text-decoration: none;">
+        <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
-        <sub><b style="color: black;">MinePortal</b></sub>
+        <sub><b style="color: black;">FileSwiftly</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/discolinks" style="text-decoration: none;">
+        <img src="https://github.com/discolinks.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+        <br />
+        <sub><b style="color: black;">DiscoLinks</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/PraxiveSoftware" style="text-decoration: none;">
+        <img src="https://github.com/PraxiveSoftware.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+        <br />
+        <sub><b style="color: black;">Praxive Software</b></sub>
       </a>
     </td>
   </tr>
