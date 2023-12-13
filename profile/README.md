@@ -7,13 +7,6 @@
 <table style="border-collapse: collapse;">
   <tr>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/giveawaysbot-me" style="text-decoration: none;">
-        <img src="https://github.com/giveawaysbot-me.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
-        <br />
-        <sub><b style="color: black;">GiveAways</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
       <a href="https://github.com/tresthost" style="text-decoration: none;">
         <img src="https://github.com/tresthost.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
@@ -25,13 +18,6 @@
         <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
         <sub><b style="color: black;">FileSwiftly</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/discolinks" style="text-decoration: none;">
-        <img src="https://github.com/discolinks.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
-        <br />
-        <sub><b style="color: black;">DiscoLinks</b></sub>
       </a>
     </td>
     <td align="center" style="padding: 10px;">
