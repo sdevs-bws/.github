@@ -28,6 +28,11 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
+  </tr>
+</table>
+<table style="border-collapse: collapse;">
+  <tr>
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/PraxiveSoftware" style="text-decoration: none;">
         <img src="https://github.com/PraxiveSoftware.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
