@@ -14,6 +14,13 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
+      <a href="https://github.com/flaskyi" style="text-decoration: none;">
+        <img src="https://github.com/flaskyi.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+        <br />
+        <sub><b style="color: black;">Flaskyi</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
       <a href="https://github.com/fileswiftly" style="text-decoration: none;">
         <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
