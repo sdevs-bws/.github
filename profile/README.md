@@ -20,14 +20,6 @@
         <sub><b style="color: black;">Flaskyi</b></sub>
       </a>
     </td>
-    <td align="center" style="padding: 10px;">
-      <a href="https://github.com/fileswiftly" style="text-decoration: none;">
-        <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
-        <br />
-        <sub><b style="color: black;">FileSwiftly</b></sub>
-      </a>
-    </td>
-    <td align="center" style="padding: 10px;">
   </tr>
 </table>
 <table style="border-collapse: collapse;">
@@ -37,6 +29,13 @@
         <img src="https://github.com/PraxiveSoftware.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
         <sub><b style="color: black;">Praxive Software</b></sub>
+      </a>
+    </td>
+    <td align="center" style="padding: 10px;">
+      <a href="https://github.com/fileswiftly" style="text-decoration: none;">
+        <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+        <br />
+        <sub><b style="color: black;">FileSwiftly</b></sub>
       </a>
     </td>
   </tr>
