@@ -1,5 +1,5 @@
 ## SDEVS
-> WE have been focused on developing discord bots, websites and source codes since 2020. We are a team of developers who are passionate about what we do.
+SDEVS - Since 2018, we are rethinking the web and create new ways to develop.
 
 ----
 
