@@ -41,23 +41,11 @@
   </tr>
 </table>
 
-----
-
-## You want to become a part of us or just contact us?
-> - https://sdevs.org/apply
-
-----
-
 ## Socials
 > - [Discord](https://discord.gg/2kYz8Z6)
 > - [Twitter](https://twitter.com/sdevs_)
 > - [GitHub](https://github.com/sdevs-bws)
-
-----
-
-## What languages and technologies do we use?
-> <img src="https://skillicons.dev/icons?i=nextjs,html,css,javascript,typescript,php,tailwindcss,nestjs,mongodb,heroku,github,alpinejs,arduino,bootstrap,git,go,ps,sqlite,mysql,nodejs,prisma,sass,webpack,react,express&theme=dark" />
-
+> - 
 ----
 
 ```ini
