@@ -32,10 +32,10 @@
       </a>
     </td>
     <td align="center" style="padding: 10px;">
-      <a href="https://github.com/fileswiftly" style="text-decoration: none;">
-        <img src="https://github.com/fileswiftly.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
+      <a href="https://github.com/contenthook" style="text-decoration: none;">
+        <img src="https://github.com/contenthook.png?size=100" width="100px" alt="" style="border-radius: 50%;"/>
         <br />
-        <sub><b style="color: black;">FileSwiftly</b></sub>
+        <sub><b style="color: black;">Contenthook</b></sub>
       </a>
     </td>
   </tr>
